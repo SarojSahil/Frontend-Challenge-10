@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Sora";
+  src: url("/fonts/Sora-font.ttf");
+}
+
+@theme {
+  --color-wheat: #fff4e9;
+  --color-orange: #F57936;
+  --color-shadow: #00000066;
+
+  --font-sora: "Sora";
+}
